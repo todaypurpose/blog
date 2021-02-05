@@ -2,6 +2,7 @@ baseURL = "https://todaypurpose.com/"
 languageCode = "en-us"
 title = "Today purpose"
 theme = "hugo-tranquilpeak-theme"
+publishDir = "docs"
 
 # googleAnalytics = "UA-123-45"
 paginate = 7
