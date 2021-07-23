@@ -6,6 +6,7 @@ canonifyurls = true
 
 [params]
   description = "Your life, your time"
+  themeColor = "theme-base-09"
 
 [taxonomies]
   tag = "tags"
