@@ -2,17 +2,15 @@
 
 https://todaypurpose.com/
 
-# Setup the repo
+# Setup locally
 ```
 git clone https://github.com/todaypurpose/blog.git
 git submodule update --init --recursive
 ```
 
+# Theme 
+We use https://github.com/spf13/hyde via submodule
 
-We use https://github.com/kakawait/hugo-tranquilpeak-theme
-
-
-# update theme 
-```
+``` bash
 git submodule update --remote --merge
 ```
