@@ -77,7 +77,7 @@ _Find your balance between investing your money for the future , and spending on
 
 Health inevitably declines with age, and we can't do antyhing about it ([yet](https://www.youtube.com/watch?v=9nXop2lLDa4)). Energy we have also decreases with our age. It doesn't mean we should fatally see it decrease without doing anything. We can't buy more time with money, but we can certainly slow down our health declining. Would you prefer having health issues, being overweight with low energy in your 50-60? Or would you rather feel great, have enough energy to travel the world and still experiences new things? 
 
-It is never too late to start. The time you're spending will help your future self to enjoy more of those delightful future experience: 
+It is never too late to invest in your health. The time you're spending (investing) into health will help your future self to enjoy more of those delightful future experiences: 
 
 ### Eat healthy
 Generally speaking, you'll be fine if you follow those rule: 
