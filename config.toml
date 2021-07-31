@@ -28,13 +28,3 @@ googleAnalytics = ""
   identifier = "categories"
   name = "Categories"
   url = "/categories"
-[[menu.main]]
-  weight = 3
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  url = "/archives"
