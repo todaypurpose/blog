@@ -3,9 +3,7 @@ theme = "hyde"
 title = "Today Purpose"
 publishDir = "docs"
 canonifyurls = true
-googleAnalytics = ""
-
-
+googleAnalytics = "G-V841DEQ6NN"
 
 [params]
   description = "This is your life"
