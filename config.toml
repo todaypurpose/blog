@@ -8,7 +8,7 @@ googleAnalytics = ""
 
 
 [params]
-  description = "Your life, your time"
+  description = "This is your life"
   # themeColor = "theme-base-0d"
   themeColor = "theme-base-09"
   layoutReverse = false
