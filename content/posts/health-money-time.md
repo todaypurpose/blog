@@ -49,7 +49,7 @@ The (sad) truth in today's society is that money is needed to contribute to your
 
 ### What's wrong with saving too much?
 
-Most of people working think about making money to save for retirement. When time comes, that money will be used for enjoying life they'll have more free time. It also exists now many [F.I.R.E](https://en.wikipedia.org/wiki/FIRE_movement) (early retirement) gurus that keeps talking about living frugally to a point where you sacrifice social life, family and friends. It is true that investing early will make a difference with the amount of money you'll end up with in 30+ years, but who guarantee you that you'll live until then? Even if you reach that stage, what will we do with this million dollars saved/invested when I'll lay in my hospital bed? Will your physical condition at 50+ years old will allow you doing the same type of activities as your 30s?
+Most of people working think about making money to save for retirement. When time comes, that money will be used for enjoying life they'll have more free time. It also exists now many [F.I.R.E](https://en.wikipedia.org/wiki/FIRE_movement) (early retirement) gurus that keeps talking about living frugally to a point where you sacrifice social life, family and friends. It is true that investing early will make a difference with the amount of money you'll end up with in 30+ years, but who guarantee you that you'll live until then? Even if you reach that stage, what will we do with this million dollars saved/invested when I'll lay in my hospital bed? No one died saying "I wish I had more money". Will your physical condition at 50+ years old will allow you doing the same type of activities as your 30s?
 
 **Money exists to be spent**. You'll never regret into **spending money into experiences or things that can create memories** (either good or bad). They add a lot into fulfilling your life and shape the way we are: 
 ![Life Experiences](/img/life-experiences.jpg)
@@ -75,32 +75,28 @@ _Find your balance between investing your money for the future , and spending on
 
 ## Health, our most precious gift
 
-Health inevitably declines with age, and we can't do antyhing about it ([yet](https://www.youtube.com/watch?v=9nXop2lLDa4)). The energy decreases with our age, but it doesn't mean we should fatally see it decrease without doing anything. We can't buy more time with money, but we can certainly slows it down.  Would you prefer having health issues, being overweight with low energy in your 50-60? Or would you rather feel great, have enough energy to travel the world and still experiences new things? 
+Health inevitably declines with age, and we can't do antyhing about it ([yet](https://www.youtube.com/watch?v=9nXop2lLDa4)). Energy we have also decreases with our age. It doesn't mean we should fatally see it decrease without doing anything. We can't buy more time with money, but we can certainly slow down our health declining. Would you prefer having health issues, being overweight with low energy in your 50-60? Or would you rather feel great, have enough energy to travel the world and still experiences new things? 
 
-It is never too late to start. The time you're spending 
+It is never too late to start. The time you're spending will help your future self to enjoy more of those delightful future experience: 
 
 ### Eat healthy
+Generally speaking, you'll be fine if you follow those rule: 
+
+- Avoid eating sugar and fruits. There is a misconception on fruit being healthy: They're full of sugar and contributes heavily into diabetes. Our society [worked really hard to make us believe they're healthy](https://www.sciencealert.com/fruits-vegetables-before-domestication-photos-genetically-modified-food-natural)
+- [Skip 1 meal a day](https://youtu.be/jhKZIq3SlYE?t=2939) (also known as intermittent fasting).
+- If you are overweight, eat simply eat less , and workout more. 
+
+Those are the rules I (try) to follow. Don't get me wrong, I consider myself a foodie, and will never say no for a great meal, or enjoying a Michelin restaurant. and I consider myself as "memories" I truely enjoy to remember. 
 
 ### Workout
+Being weak isn't great either. Can you follow to hike ? 
+
+- Make your heart work. [Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm).  
+Find something you like to do **regularly** (at least 2 times a week). There is so many great sport out there. Sometimes  
+
+### Sleep well
+
+Sleeping well makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). 
 
 ### The best gift to your kids
-
-
-
-, you'll not be able to recover your past health.
-
-- Working out to 
-- Eat 
-- Sleep
 - Staying healthy is probably the best gift you can give to your kids (more than giving them inheritance).
-
-
-
-Being overweighted . Being weak isn't great either. Can you follow to hike ? 
-
-Health, free time, money 
-
-Experiences, real friends, meaningful contributions
-
-
-Of course getting all three aren't enough to get a happy life. Why rich billionaire end up suiciding 
