@@ -27,7 +27,7 @@ In ["Die With Zero"](https://www.goodreads.com/book/show/52950915-die-with-zero)
 This diagram sumurizes show how much Free Time, Money, Health we have depending of our age:
 ![Health Money Free time change with age](/img/health-money-free-time.jpg)
 
-Thes _"Best years of our life"_, when our health is at its peak, and we can start to use our money is from 18 to 40, so **22 years**. For somone with a 9-5 job (or study), this is how time is split during those 22 years: 
+The _"best years of our life"_, when our health is at its peak, and we can start to use our money is from 18 to 40, so **22 years**. For somone with a 9-5 job (or study), this is how time is split during those 22 years: 
 
 ![How is your time spent during your best years?](/img/best-years-time-is-spent.png)
 
@@ -42,55 +42,49 @@ Our **Free Time is limited**. Think twice before saying "no", or delay an activi
 - Buy some time with your money
 
 
-## Money is aimed to be spent
+## Spending Money as soon as possible (in the right things)
 
 The (sad) truth in today's society is that money is needed to contribute to your hapiness. Even though some might argue that money isn't doesn't make you happy, it definitely contributes to hapiness, to fund a **pleasant**, **engaging** and **meaningful** life: 
 ![Money contributes to Hapiness](/img/money-contributes-to-hapiness.jpg)
 
-As said earlier, we spent 1/3 of our "career stage" at work, and we do this mainly for money. The longer we work, the more skills we get, so the more money we make. However, our best years also happen during that career phase. 
-
 ### What's wrong with saving too much?
 
-Most of people working think about making money to save for retirement. When time come, that money will be used for enjoying life they'll have more free time.
+Most of people working think about making money to save for retirement. When time comes, that money will be used for enjoying life they'll have more free time. It also exists now many [F.I.R.E](https://en.wikipedia.org/wiki/FIRE_movement) (early retirement) gurus that keeps talking about living frugally to a point where you sacrifice social life, family and friends. It is true that investing early will make a difference with the amount of money you'll end up with in 30+ years, but who guarantee you that you'll live until then? Even if you reach that stage, what will we do with this million dollars saved/invested when I'll lay in my hospital bed? Will your physical condition at 50+ years old will allow you doing the same type of activities as your 30s?
 
-But what will be this millions dollars when I'll be in hospital to die?
+**Money exists to be spent**. You'll never regret into **spending money into experiences or things that can create memories** (either good or bad). They add a lot into fulfilling your life and shape the way we are: 
+![Life Experiences](/img/life-experiences.jpg)
 
+It is also true that we don't necessarly need money to make memories. Under our 25, we're incredibly good at finding ways to get things for free. But the more we move in our age, the more we can unlock some of the experience that can be accessed with money.
 
-Should be smart about optimizing where you spend your time, and if it contributes to your hapiness.
+You'll get the most benefit of it the earlier you spend it. One of the benefit in spending it early is that activities, and we keep thinking and talking about them. I also believe it's. 
 
+![Memory compounding from experiences](/img/memory-compunding.jpg)
 
-Even though some might argue we don't need money to be happy. Money can buy you , or make things
+As said earlier, we spend 1/3 of our "career stage" at work, and we do this mainly for money. The longer we work, the more skills we get, so the more money we make. However, our best years also happen during that career phase, and this is when we can get the most of the experiences that will invevitably compound in time. Do you want spend all your career phase and missing out in all the experiences you can get when you're young and healthy? It exists some solutions to allocate better our time during that phase, such as starting our own company, [early retirement](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp), getting better paychecks (or [more as a contractor](https://training.kalzumeus.com/newsletters/archive/consulting_1)), or working for companies with [4 days work week](https://4dayweek.io?ref=todaypurpose.com). 
 
-- FIRE movement . pushing to save the 
-- FIRE, but but don't overdo it 
-    - saving too much , investing too early
-    - overspending
-    - invest in experience
-- Coast FIRE
-- Spend 
-- Find your micro-motives, don't do things just for money. 
-- Don't under-sell yourself
-
-- Are your being paid the right price? Money is usually taboo, but opening the conversation. Are you working more for less money? Is changing a company would results a salary boost? If you're a freelancer, are you charging enough?  
 
 ### What's wrong with saving too little?
-- Emergency funds, you never know what can happen
-- Not enough for retirement
+
+**You don't want to end up old and poor**. There is also a balance to find between spending money and saving money. There is a limit into where you should spend your money, and everyone has a different limit depending of our income. Generally speaking, spending your money every year into the latest Iphone, defaulting to 5 stars hotel, or business class tickets isn't the best use of your money. Unless occasionally, they won't bring you much value in our life (exept for external validation). This is where I usually start saying no, and invest that extra money for my future self: 
+
+- Make that extra money _work for you_. Invest into diversified index funds so you can use the [power of compound interest](https://www.investopedia.com/terms/c/compoundinterest.asp#growth-of-compound-interest), and use that "free money" later on the late stage of your life. The [earlier you invest, the better it is](https://ofdollarsanddata.com/go-big-then-stop/?ref=todaypurpose.com).
+- You will also want to have a an emergency funds (6 months of expenses in in your bank account) that can be used as a buffer in case of losing job, unecpected bill, injury, etc...
+
+_Find your balance between investing your money for the future , and spending on what matters (memories) in the present._
 
 
-- Plan properly
+## Health, our most precious gift
 
+Health inevitably declines with age, and we can't do antyhing about it (yet). Our life energy will decrease with age, but it doesn't mean  we should fatally wait for our last days. Would you prefer having lot of health issues, being overweight when getting in your 50-60? Or would you rather? 
 
+It is never too late to start. The time you're spending 
 
-_Balance between saving smartly for the future , adn spending on what matters (experience) in  the present._
-
-
-## Health
-Health decline with . No matter how much money you put, you'll not be able to recover your past health.
+, you'll not be able to recover your past health.
 
 - Working out to 
 - Eat 
 - Sleep
+- Staying healthy is probably the best gift you can give to your kids (more than giving them inheritance).
 
 
 
