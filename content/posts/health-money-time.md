@@ -27,20 +27,13 @@ In ["Die With Zero"](https://www.goodreads.com/book/show/52950915-die-with-zero)
 This diagram sumurizes show how much Free Time, Money, Health we have depending of our age:
 ![Health Money Free time change with age](/img/health-money-free-time.jpg)
 
-The _"best years of our life"_, when our health is at its peak, and we can start to use our money is from 18 to 40, so **22 years**. For somone with a 9-5 job (or study), this is how time is split during those 22 years: 
+The _"best years of our life"_, when our health is at its peak, and we can start to use our money is from 18 to 40, so **22 years**. For someone with a 9-5 job (or study), this is how time is split during those 22 years: 
 
 ![How is your time spent during your best years?](/img/best-years-time-is-spent.png)
 
-62,000 hours (33%) of our time is spent in bed. 50,000 hours (27%) is spent working and commuting.  That leave us with **57,000 hours when we could experience the world at our "maximum" potential**.
+62,000 hours (33%) of our time is spent in bed. 50,000 hours (27%) is spent working and commuting. That leave us with **57,000 hours when we could experience the world at our "maximum" potential**.
 
-
-Our **Free Time is limited**. Think twice before saying "no", or delay an activity because of "saving" for the future when you'll probably can't do it.
-
-- Try to sell your time on something you like, learn, or find meaningful
-- Don't work for "assholes"
-- The "Autopilot" mode
-- Buy some time with your money
-
+Our **Free Time is limited**. Think twice before saying "no", to delay an activity because of "saving" for the future when you'll probably can't do it. Think even more when you work over-time.  **No-one ever said "I wish I worked more” in their death bed**.
 
 ## Spending Money as soon as possible (in the right things)
 
@@ -73,7 +66,7 @@ As said earlier, we spend 1/3 of our "career stage" at work, and we do this main
 _Find your balance between investing your money for the future , and spending on what matters (memories) in the present._
 
 
-## Health, our most precious gift
+## Preserve your Health
 
 Health inevitably declines with age, and we can't do antyhing about it ([yet](https://www.youtube.com/watch?v=9nXop2lLDa4)). Energy we have also decreases with our age. It doesn't mean we should fatally see it decrease without doing anything. We can't buy more time with money, but we can certainly slow down our health declining. Would you prefer having health issues, being overweight with low energy in your 50-60? Or would you rather feel great, have enough energy to travel the world and still experiences new things? 
 
@@ -84,19 +77,21 @@ Generally speaking, you'll be fine if you follow those rule:
 
 - Avoid eating sugar and fruits. There is a misconception on fruit being healthy: They're full of sugar and contributes heavily into diabetes. Our society [worked really hard to make us believe they're healthy](https://www.sciencealert.com/fruits-vegetables-before-domestication-photos-genetically-modified-food-natural)
 - [Skip 1 meal a day](https://youtu.be/jhKZIq3SlYE?t=2939) (also known as intermittent fasting).
-- If you are overweight, eat simply eat less , and workout more. 
+- If you are overweight, simply eat less, and workout more, there is no magic in it.
 
 Those are the rules I (try) to follow. Don't get me wrong, I consider myself a foodie, and will usually say "Yes" for a great meal, or a Michelin restaurant. I consider eating as great "memories" I truely enjoy to remember. 
 
 ### Workout
-The indeniable truth is that [exercising makes you live longer](https://youtu.be/jhKZIq3SlYE?t=3880). [Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). 
+[Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). The indeniable truth is that [exercising makes you live longer](https://youtu.be/jhKZIq3SlYE?t=3880). It helps reduce heart attack risk, cancers, and diabetes.  
 
 Being weak isn't fun either. Can't follow for this hike? How about cycling this mountain? Have you thought? Find something you like to do **regularly** (at least 2 times a week). There is so many great sports you can do out there. You don't have to stick to one, I personally like trying a sport every 3 years and it gives me new opportunities to experience new things in different places. Doing regularly a sport will also prepare you better for the future, you'll likely follow in activities with friends or even your (grand) kids. 
 
 You'll feel great most of your days.
 
 ### Sleep well
-We spend 1/3 of our life in a bed. Aren't you feeling wonderful after a great night of sleep? Also, did you know that sleeping well makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). Invest in a good mattress. Working out also helps you getting great sleep.
+We spend 1/3 of our life in a bed. There are indeniable evidence that sleeping well is beneficial for all aspect of our life. We think more sharply, we feel better, we're in a better mood, it also makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). 
+
+Aren't you feeling wonderful after a great night of sleep?. Invest in a ~~good~~ great mattress.
 
 ### The best gift to your kids
-Staying healthy is probably the best gift you can give to your kids (more than giving them inheritance).
+A not so common knowledge is that staying healthy is probably the best gift you can give to your kids, even more than giving them inheritance. 
