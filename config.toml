@@ -5,11 +5,14 @@ publishDir = "docs"
 canonifyurls = true
 googleAnalytics = ""
 
+
+
 [params]
   description = "Your life, your time"
   # themeColor = "theme-base-0d"
   themeColor = "theme-base-09"
   layoutReverse = false
+  copyright = "© todaypurpose"
 
 [taxonomies]
   tag = "tags"
