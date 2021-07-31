@@ -68,6 +68,8 @@ _Find your balance between investing your money for the future , and spending on
 
 ## Preserve your Health
 
+> I've got my $5 million, but I'd give it back if I could be 24 again
+
 Health inevitably declines with age, and we can't do antyhing about it ([yet](https://www.youtube.com/watch?v=9nXop2lLDa4)). Energy we have also decreases with our age. It doesn't mean we should fatally see it decrease without doing anything. We can't buy more time with money, but we can certainly slow down our health declining. Would you prefer having health issues, being overweight with low energy in your 50-60? Or would you rather feel great, have enough energy to travel the world and still experiences new things? 
 
 It is never too late to invest in your health. The time you're spending (investing) into health will help your future self to enjoy more of those delightful future experiences: 
@@ -89,9 +91,7 @@ Being weak isn't fun either. Can't follow for this hike? How about cycling this 
 You'll feel great most of your days.
 
 ### Sleep well
-We spend 1/3 of our life in a bed. There are indeniable evidence that sleeping well is beneficial for all aspect of our life. We think more sharply, we feel better, we're in a better mood, it also makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). 
-
-Aren't you feeling wonderful after a great night of sleep?. Invest in a ~~good~~ great mattress.
+We spend 1/3 of our life in a bed. There are indeniable evidence that sleeping well is beneficial for all aspect of our life. We think more sharply, we feel better, we're in a better mood, it also makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). Aren't you feeling wonderful after a great night of sleep? Invest in a ~~good~~ great mattress.
 
 ### The best gift to your kids
-A not so common knowledge is that staying healthy is probably the best gift you can give to your kids, even more than giving them inheritance. 
+A not so common knowledge is that **staying healthy is probably the best gift you can give to your (grand) kids**, and believe it or not, even more than giving them an inheritance. We (usually) love our parents, and (hopefully) you also think about their well being. If they're in a not that healthy state, you'll probably have to make sacrifices, changes your plans in order to help them. You don't want to be that parent. 
