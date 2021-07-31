@@ -75,9 +75,17 @@ _Find your balance between investing your money for the future , and spending on
 
 ## Health, our most precious gift
 
-Health inevitably declines with age, and we can't do antyhing about it (yet). Our life energy will decrease with age, but it doesn't mean  we should fatally wait for our last days. Would you prefer having lot of health issues, being overweight when getting in your 50-60? Or would you rather? 
+Health inevitably declines with age, and we can't do antyhing about it ([yet](https://www.youtube.com/watch?v=9nXop2lLDa4)). The energy decreases with our age, but it doesn't mean we should fatally see it decrease without doing anything. We can't buy more time with money, but we can certainly slows it down.  Would you prefer having health issues, being overweight with low energy in your 50-60? Or would you rather feel great, have enough energy to travel the world and still experiences new things? 
 
 It is never too late to start. The time you're spending 
+
+### Eat healthy
+
+### Workout
+
+### The best gift to your kids
+
+
 
 , you'll not be able to recover your past health.
 
