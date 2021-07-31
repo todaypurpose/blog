@@ -5,6 +5,7 @@ publishDir = "docs"
 canonifyurls = true
 googleAnalytics = "G-V841DEQ6NN"
 
+
 [params]
   description = "This is your life"
   # themeColor = "theme-base-0d"
