@@ -89,14 +89,12 @@ Generally speaking, you'll be fine if you follow those rule:
 Those are the rules I (try) to follow. Don't get me wrong, I consider myself a foodie, and will never say no for a great meal, or enjoying a Michelin restaurant. and I consider myself as "memories" I truely enjoy to remember. 
 
 ### Workout
-Being weak isn't great either. Can you follow to hike ? 
+Being weak isn't fun either. Can't  follow for this small hike? How about cyncling in mountain? Have you thought? Find something you like to do **regularly** (at least 2 times a week). There is so many great sports you can do out there. You don't have to stick to one, I personally like trying a sport every 3 years and it gives me new opportunities to experience new things in different places. 
 
-- Make your heart work. [Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm).  
-Find something you like to do **regularly** (at least 2 times a week). There is so many great sport out there. Sometimes  
+[The indeniable truth is that working make you live longer](https://youtu.be/jhKZIq3SlYE?t=3880). [Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). You'll feel great most of your days.
 
 ### Sleep well
-
-Sleeping well makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). 
+We spend 1/3 of our life in a bed. Aren't you feeling wonderful after a great night of sleep? Also, did you know that sleeping well makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). Invest in a good mattress. Working out also helps you getting great sleep.
 
 ### The best gift to your kids
-- Staying healthy is probably the best gift you can give to your kids (more than giving them inheritance).
+Staying healthy is probably the best gift you can give to your kids (more than giving them inheritance).
