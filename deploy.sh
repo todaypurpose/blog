@@ -1,1 +1,1 @@
-hugo --minify ; git commit -am "update" ; git push origin main
+hugo ; git commit -am "update" ; git push origin main
