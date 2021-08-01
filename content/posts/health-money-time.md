@@ -24,7 +24,7 @@ In ["Die With Zero"](https://www.goodreads.com/book/show/52950915-die-with-zero)
 
 ![Best years - Health declining](/img/best-years-health.jpg)
 
-This diagram summarizes show how much Free Time, Money, Health we have depending of our age:
+This diagram summarizes how much Free Time, Money, Health we have depending of our age:
 ![Health Money Free time change with age](/img/health-money-free-time.jpg)
 
 The _"best years of our life"_, when our health is at its peak, and we can start to use our money, are from 18 to 40, so **22 years**. For someone with a 9-5 job (or study), this is how time is split during those 22 years: 
