@@ -7,7 +7,7 @@ menu:
     weight: 1
 
 ---
-I'm an engineer. I work with startups, and enjoy working on my own projects. I currently make 6 figures a year, with a 7 figures Net Worth. 
+I'm an engineer. I work with startups, and enjoy working on my own projects. I currently make 6 figures a year. 
 
 Lived in Europe, worked for some US companies and startups. I currently live somwehere in Asia. 
 
