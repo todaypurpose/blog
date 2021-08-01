@@ -8,10 +8,8 @@ menu:
 
 ---
 I'm an engineer. Lived in Europe, worked for some US startups and currently live somwehere in Asia.
-I usually work in startups, but also enjoy working on my own projects, and lucky to generate 6 figures a year.
+I usually work in startups, but also enjoy working on my own projects. Coming from a modest family, I feel really lucky to be able to make 6 figures a year.
 
-I come from a modest family, and now enjoying what some might consider an "enriching life".
-
-If you're intested in my point of view, I invite you to subscribe to my newsletter. No spam, only what you'd expect from a great newsletter. Topics will include **money**, mental or physical **health**, and reflections how one is using its **life**. 
+If you're intested in my point of view, I invite you to subscribe to my newsletter. Topics will include **money**, mental or physical **health**, and reflections how one is using its **life**.  No spam, only what you'd expect from a great newsletter.
 
  <!--more-->
