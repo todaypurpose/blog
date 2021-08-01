@@ -4,14 +4,14 @@ title = "Today Purpose"
 publishDir = "docs"
 canonifyurls = true
 googleAnalytics = "G-V841DEQ6NN"
-
+summaryLength = 70
 
 [params]
   description = "This is your life"
   # themeColor = "theme-base-0d"
   themeColor = "theme-base-09"
   layoutReverse = false
-  copyright = "© todaypurpose"
+  copyright = " "
 
 [taxonomies]
   tag = "tags"
@@ -22,8 +22,8 @@ googleAnalytics = "G-V841DEQ6NN"
   name = "Today Purpose"
 
 # Menu Configuration
-[[menu.main]]
-  weight = 2
-  identifier = "categories"
-  name = "Categories"
-  url = "/categories"
+#[[menu.main]]
+#  weight = 2
+#  identifier = "categories"
+#  name = "Categories"
+#  url = "/categories"
