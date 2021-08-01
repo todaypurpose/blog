@@ -4,10 +4,6 @@
     <title>Tags on Today Purpose</title>
     <link>https://todaypurpose.com/tags/</link>
     <description>Recent content in Tags on Today Purpose</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://todaypurpose.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://todaypurpose.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
