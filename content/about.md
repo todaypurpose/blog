@@ -7,9 +7,8 @@ menu:
     weight: 1
 
 ---
-I'm an engineer. I work with startups, and enjoy working on my own projects. I currently make 6 figures a year. 
-
-Lived in Europe, worked for some US companies and startups. I currently live somwehere in Asia. 
+I'm an engineer. Lived in Europe, worked for some US startups and currently live somwehere in Asia.
+I usually work in startups, but also enjoy working on my own projects, and lucky to generate 6 figures a year.
 
 I come from a modest family, and now enjoying what some might consider an "enriching life".
 
