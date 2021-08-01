@@ -1,6 +1,6 @@
 ---
-title: "On Time, Money and Health"
-date: 2021-07-23T08:12:01Z
+title: "On Money, Time and Health"
+date: 2021-07-27T08:12:01Z
 draft: false
 ---
 What would you do of your $1+ million dollar sitting in your bank account or index funds in your dying bed? 
