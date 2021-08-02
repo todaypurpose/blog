@@ -4,7 +4,7 @@ date: 2021-07-27T09:12:01Z
 draft: false
 ---
 
-How much net worth do we need? Are billionaires more satisfied/happier than millionaires?
+How much net worth do we need? Are billionaires more satisfied/happier than millionaires? Is my 9-5 job as a bartender will be enough to sustain my entire life?
 
  <!--more-->
 
