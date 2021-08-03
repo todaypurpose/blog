@@ -2,6 +2,8 @@
 title: "On Time, Money and Health"
 # title: "Our Time is Limited: Spend money on Memories and stay Healthy"
 date: 2021-07-27T08:12:01Z
+description: "What would you do of your $1+ million dollar sitting in your bank account or index funds in your dying bed?"
+images: ['/img/health-money-free-time.jpg']
 draft: false
 ---
 What would you do of your $1+ million dollar sitting in your bank account or index funds in your dying bed? 
@@ -95,3 +97,12 @@ We spend 1/3 of our life in bed. There is undeniable evidence that sleeping well
 
 ### The best gift to your kids
 A not so common knowledge is that **staying healthy is probably the best gift you can give to your (grand) kids**, and believe it or not, even more than giving them an inheritance. We (usually) love our parents, and (hopefully) you also think about their well being. If they’re not in a healthy state, you’ll probably have to make sacrifices, changes your plans in order to help them. You don’t want to be that parent.
+
+
+<!-- 
+
+Reference: 
+https://www.reddit.com/r/financialindependence/comments/58j8pc/build_the_life_you_want_then_save_for_it/ 
+Die With Zero
+
+-->
