@@ -5,6 +5,7 @@ publishDir = "docs"
 canonifyurls = true
 googleAnalytics = "G-V841DEQ6NN"
 summaryLength = 70
+disqusShortname = "today-purpose"
 
 [params]
   description = " "
