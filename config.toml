@@ -22,8 +22,8 @@ summaryLength = 70
   name = "Today Purpose"
 
 # Menu Configuration
-#[[menu.main]]
-#  weight = 2
-#  identifier = "categories"
-#  name = "Categories"
-#  url = "/categories"
+[[menu.main]]
+  weight = 2
+  identifier = "categories"
+  name = "Twitter"
+  url = "https://twitter.com/today_purpose"
