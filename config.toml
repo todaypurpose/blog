@@ -7,7 +7,7 @@ googleAnalytics = "G-V841DEQ6NN"
 summaryLength = 70
 
 [params]
-  description = "This is your life"
+  description = " "
   # themeColor = "theme-base-0d"
   themeColor = "theme-base-09"
   layoutReverse = false
