@@ -77,11 +77,11 @@ It is never too late to invest in your health. The time you're spending (investi
 ### Eat healthy
 Generally speaking, you'll be fine if you follow those rule: 
 
-- Avoid eating sugar and fruits. There is a misconception on fruit being healthy: They’re full of sugar and contribute heavily to diabetes. Our society [worked really hard to make us believe they're healthy](https://www.sciencealert.com/fruits-vegetables-before-domestication-photos-genetically-modified-food-natural)
-- [Skip 1 meal a day](https://youtu.be/jhKZIq3SlYE?t=2939) (also known as intermittent fasting).
+- Avoid eating/drink anything with sugar. There is a misconception on fruit being healthy: They’re full of sugar and contribute heavily to diabetes. Our society [worked really hard to make us believe they're healthy](https://www.sciencealert.com/fruits-vegetables-before-domestication-photos-genetically-modified-food-natural)
+- Try to [skip 1 meal a day](https://youtu.be/jhKZIq3SlYE?t=2939) (also known as intermittent fasting).
 - If you are overweight, simply eat less, and workout more, there is no magic in it.
 
-Those are the rules I (try) to follow. Don't get me wrong, I consider myself a foodie, and will usually say "Yes" for a great meal, or a Michelin restaurant. I consider eating as great "memories" I truly enjoy to remember. 
+Those are the rules I (try) to follow. Don't get me wrong, I consider myself a "foodie", and will usually say "Yes" for a great meal, a nice plate of refreshing fruits during a on the beach, or a Michelin restaurant. I consider eating as great "memories" I truly enjoy to remember. 
 
 ### Workout
 [Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). The indeniable truth is that [exercising makes you live longer](https://youtu.be/jhKZIq3SlYE?t=3880). It helps reduce heart attack risk, cancers, and diabetes.  
