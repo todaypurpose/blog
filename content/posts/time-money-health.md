@@ -86,7 +86,7 @@ Those are the rules I (try) to follow. Don't get me wrong, I consider myself a "
 ### Workout
 [Heart attack is the #1 cause of death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). The indeniable truth is that [exercising makes you live longer](https://youtu.be/jhKZIq3SlYE?t=3880). It helps reduce heart attack risk, cancers, and diabetes.  
 
-Being weak isn't fun either. Can't follow for this hike? How about cycling this mountain?s
+Being weak isn't fun either. Can't follow for this hike for a breathtaking view? How about cycling up to this mountain?
 
 Find something you like to do **regularly** (at least 2 times a week). There are so many great sports you can do out there. You don't have to stick to one, I personally like trying a sport every 3 years and it gives me new opportunities to experience new things in different places. Doing a sport regularly will  also prepare you better for the future, you'll likely follow in activities with friends or even your (grand) kids. 
 
