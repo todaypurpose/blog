@@ -1,7 +1,7 @@
 ---
 title: "[Drafting] Don't kill yourself at work"
 date: 2021-07-28T00:00:00Z
-draft: false
+draft: true
 ---
 > "I wish I worked more” - said no-one on their death bed
 
