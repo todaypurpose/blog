@@ -16,7 +16,7 @@ What can you do to maintain your independence, relationships, and **dignity**?  
 
 > "Exercise is by far the most potent longevity ‘drug’ available." It's not just about delaying death; it's about preserving cognitive and physical abilities.
 
-## The Inevitable Decline Begins in Your 30s
+## The inevitable decline begins in your 30s
 
 Many of us don't notice it in our 20s, but as we enter our 30s, the signs become more and more reccurent. Recovery from injuries slows down, we get tired more quickly, and our overall vigor starts to wane. 
 
