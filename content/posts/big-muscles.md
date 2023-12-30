@@ -8,9 +8,9 @@ images: ['/img/working-out/increase-healthspan-quality-of-life.jpg']
 
 Life isn't just about how long we live; it's about how well we live it. We often hear about increasing our lifespan, but is a longer life worth it if we can't move and become dependent on others? What's equally, or even more important, is enhancing our healthspan—the period during which we enjoy a good quality of life. From what I've observed when talking to older people, they care more about "improving the quality of their life" than "living a longer life" 
 
-Imagine being unable to engage in activities you love, like traveling, playing with kids, hiking, or even just gardening. The loss of functional ability can lead to a diminished the enjoyment we have in life. Grow old and 
+Imagine being unable to engage in activities you love, like traveling, playing with kids, hiking, or even just gardening. The loss of functional ability can lead to a diminished the enjoyment we have in life. 
 
-What can you do to maintain your independence, social life, relationships, and **dignity**?  I believe the answer lies in working out, especially resistance training. In his book ["Outlive"](https://peterattiamd.com/outlive/), Peter Attia shows how we can increase our healthpan and combat the effect of aging : 
+What can you do to maintain your independence, relationships, and **dignity**?  I believe the answer lies in working out, especially **resistance training** that helps keeping our strength. In his book ["Outlive"](https://peterattiamd.com/outlive/), Peter Attia shows how we can increase our healthpan and combat the effect of aging : 
 
 ![Health Decline Graphic](/img/working-out/increase-healthspan-quality-of-life.jpg)
 
