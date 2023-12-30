@@ -94,6 +94,6 @@ Of course you'll need to preserve those muscle with resistance training.
 
 ## Conclusion
 
-Resistance training is a choice you make, for yourself in the future It is never too late to start. The benefits of doing it can be seen at any age. The key is to keep doing it. The [CDC 2 or more days a week that work all major muscle groups (legs, hips, back, abdomen, chest, shoulders, and arms](https://www.cdc.gov/physicalactivity/basics/age-chart.html). There is plenty of streght traiing gurus out there. No matter which one you pick, you'll find benefit doing them. 
+Resistance training is a choice you make, for yourself in the future It is never too late to start. The benefits of doing it can be seen at any age. The key is to keep doing it. The CDC recommends [2+ days per week that work all major muscle groups (legs, hips, back, abdomen, chest, shoulders, and arms)](https://www.cdc.gov/physicalactivity/basics/age-chart.html). There is plenty of streght traiing gurus out there. No matter which one you pick, you'll find benefits any of them. 
 
 My only advice is to find good lasting reasons to workout (I hope this article helped) and stop finding excuses to not go. 
