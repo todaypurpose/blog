@@ -20,7 +20,7 @@ What can you do to maintain your independence, relationships, and **dignity**?  
 
 Many of us don't notice it in our 20s, but as we enter our 30s, the signs become more and more reccurent. Recovery from injuries slows down, we get tired more quickly, and our overall vigor starts to wane. 
 
-### sarcopenia: losing muscle and strenght as we age
+### sarcopenia: losing muscle and strength as we age
 
 Sarcopenia is the loss of muscle strength with age. It often catches people off guard and people realize it when it's too late. Starting as early as age 30, we begin to lose 3% to 5% of our muscle mass each decade. By the end of a typical lifespan, most individuals have lost about 30% of their muscle strength.
 Preserving muscle mass is crucial. **No amount of cardio** (running, cycling) can combat this natural decline.  Both men and women need to engage in strength training along with cardiovascular exercise.
@@ -60,14 +60,32 @@ If you are in your 30s like me, you probably already feel it.  Regular exercise,
 
 ## Other reasons to stay strong as we age?
 
-### cognitive benefits
+### cognitive benefits, mood, stamina
 
 Resistance training doesn't just benefit the body; it also supports cognitive health. Low muscle mass and physical inactivity are linked to cognitive decline in old age. Exercise releases myokines, which support brain health, indicating a dose-dependent effect between muscle mass and cognitive function.
+
+It also boost mood and reduce symptoms of anxiety and depression. When pushing hard, your body release endorphins and other mood-enhancing chemicals during exercise. These natural mood lifters contribute to a sense of well-being you can get each time you go for a workout.
+
+Beyond building muscle strength, resistance training enhances overall stamina and endurance. This increased stamina is not just physical; it translates into greater mental and emotional resilience. Older adults with higher levels of fitness and stamina are better equipped to handle the challenges of daily life, remain independent, and engage in social activities, which are crucial for mental health and quality of life.
+
+### being in control
+
+Resistance training is the art of pushing yourself than what you think is your limit. It teaches the value of persistence, discipline, and hard work. The satisfaction of achieving a physical goal through resistance training, and in my humble opinion, can **boost confidence** in one's ability to **overcome other challenges in life** you might think are not possible to overcome.
+
+Alan Thrall (that I started following because his excellent ["how to squat video"](https://www.youtube.com/watch?v=UFs6E3Ti1jg)) puts it really well. Why did he kept working out during a crazy time such has the first weeks of having a baby and he his overwhelmed?
+ 
+> When times get tough, I need keeps everyone (his household) grounded, and helps people moving to the right direction. Stay 1 step ahead of everything, and not only being pueshed around by life circumstances. I am stronger than the situation. 
+
+{{< rawhtml >}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQlHBvg6Cgw?si=wsx7Pvh-gDhkrXCP&amp;start=516" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{< /rawhtml >}}
 
 
 ### independance, autonomy
 
-As we lost strenght we will lose ability to grab things, or even walk. This might lead to Keeping some dignity as a huma being. 
+As we lost strenght we will lose ability to grab things, or even walk. This might lead to Keeping some dignity as a human being. 
 The ability to engage in activities like playing with kids, hiking, or traveling is not just a matter of physical capability; it's also about maintaining independence and relationships, which are central to happiness. As we age, the desire to remain self-reliant grows stronger, and resistance training plays a crucial role in this.
 
 
