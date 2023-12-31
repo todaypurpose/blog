@@ -74,7 +74,7 @@ Resistance training is the art of pushing yourself than what you think is your l
 
 Alan Thrall (that I started following because his excellent ["how to squat video"](https://www.youtube.com/watch?v=UFs6E3Ti1jg)) puts it really well. Why did he kept working out during a crazy time such has the first weeks of having a baby and he his overwhelmed?
  
-> When times get tough, I need keeps everyone (his household) grounded, and helps people moving to the right direction. Stay 1 step ahead of everything, and not only being pueshed around by life circumstances. I am stronger than the situation. 
+> When times get tough, I need keeps everyone (his household) grounded, and helps people moving to the right direction. Stay 1 step ahead of everything, and not only being pushed around by life circumstances. I need to be stronger than the situation. 
 
 {{< rawhtml >}}
 
