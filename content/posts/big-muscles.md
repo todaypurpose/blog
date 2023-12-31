@@ -85,7 +85,7 @@ Alan Thrall (that I started following because his excellent ["how to squat video
 
 ### independance, autonomy
 
-As we lost strenght we will lose ability to grab things, or even walk. This might lead to Keeping some dignity as a human being. 
+As we lost strength we will lose ability to grab things, or even walk. This might lead to Keeping some dignity as a human being. 
 The ability to engage in activities like playing with kids, hiking, or traveling is not just a matter of physical capability; it's also about maintaining independence and relationships, which are central to happiness. As we age, the desire to remain self-reliant grows stronger, and resistance training plays a crucial role in this.
 
 
