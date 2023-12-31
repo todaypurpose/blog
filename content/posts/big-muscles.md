@@ -112,7 +112,7 @@ Of course you'll need to preserve those muscle with resistance training.
 
 ## Some last words
 
-Resistance training is a choice you make, for yourself in the future It is never too late to start. The benefits of doing it can be seen at any age. The key is to keep doing it, no matter what.
+Resistance training is a choice you make. It's hard, but only has upsides for your current and future self. It is never too late to start. The benefits of starting it can be seen at any age. The key is to keep doing it, no matter what.
 
 My only advices:
 - Find good lasting reasons to workout (I hope this article helped) and stop finding excuses to not go. 
