@@ -121,3 +121,11 @@ My only advices:
 - The CDC recommends [2+ days per week that work all major muscle groups (legs, hips, back, abdomen, chest, shoulders, and arms)](https://www.cdc.gov/physicalactivity/basics/age-chart.html). 
 - For very beginner, I do recommend the [5x5 program](https://stronglifts.com/5x5/). The program work on all biggest muscles of your bodies. I do also like their app that is really easy to follow. There is plenty of strength training gurus out there. No matter what program you pick, you'll find benefits any of them. 
 - When you go to the gym, leave your ego at home, and never compare yourself to others. You'll just get injured. 
+
+
+
+---
+
+Liked this post ? You'll love that one: [On Time, Money and Health](/posts/time-money-health/)
+
+---
