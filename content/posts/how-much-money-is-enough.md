@@ -1,6 +1,6 @@
 ---
 title: "[Drafting] How much Money is Enough?"
-date: 2021-07-27T09:12:01Z
+date: 2024-01-01T09:12:01Z
 draft: true
 ---
 
