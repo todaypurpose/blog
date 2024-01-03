@@ -1,6 +1,6 @@
 ---
 title: "[Drafting] Don't kill yourself at work"
-date: 2023-12-28T00:00:00Z
+date: 2023-12-30T00:00:00Z
 draft: false
 ---
 > "I wish I worked more” - said no-one on their death bed
