@@ -32,7 +32,7 @@ Preserving muscle mass is crucial. **No amount of cardio** (running, cycling) ca
 Look at the similarities in thigh muscle of the triathletes and someone who does not move below ([source](https://twitter.com/ChamberofFit/status/1688607251316056065)):
 
 
-![Comaparison triathlete sedetanire](/img/working-out/triathlete-sedentaire.jpeg)
+![Comaparison triathlete sedetanire](https://pbs.twimg.com/media/F28jWCFWwAAWJbn?format=jpg)
 
 
 ## Resistance Training: The ultimate drug to improve healthspan
