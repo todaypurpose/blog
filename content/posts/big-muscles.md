@@ -29,6 +29,12 @@ Preserving muscle mass is crucial. **No amount of cardio** (running, cycling) ca
 ![Muscle Loss Over Time](/img/working-out/muscle-strengtht-loss.webp)
 
 
+Look at the similarities in thigh muscle of the triathletes and someone who does not move below:
+
+
+![Comaparison triathlete sedetanire](/img/working-out/triathlete-sedentaire.jpeg)
+
+
 ## Resistance Training: The ultimate drug to improve healthspan
 
 The graph show than our peak strength happen at 30 and start decreasing over time:
