@@ -90,7 +90,7 @@ Being weak isn't fun either. Can't follow for this hike for a breathtaking view?
 
 Find something you like to do **regularly** (at least 2 times a week). There are so many great sports you can do out there. You don't have to stick to one, I personally like trying a sport every 3 years and it gives me new opportunities to experience new things in different places. Doing a sport regularly will  also prepare you better for the future, you'll likely follow in activities with friends or even your (grand) kids. 
 
-You'll feel great most of your days.
+You'll feel great most of your days. And there are many [reasons why you should have big muscles](/posts/bug-muscles/)
 
 ### Sleep well
 We spend 1/3 of our life in bed. There is undeniable evidence that sleeping well is beneficial for all aspects of our life. We think more sharply, we feel better, we're in a better mood, it also makes [you live longer](https://youtu.be/jhKZIq3SlYE?t=4202). Aren't you feeling wonderful after a great night of sleep? Invest in a ~~good~~ great mattress.
