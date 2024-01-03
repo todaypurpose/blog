@@ -1,7 +1,7 @@
 ---
 title: "[Drafting] Why do we always want more?"
 date: 2023-11-28T00:00:00Z
-draft: true
+draft: false
 ---
 
 Most of the search of wealth is not about how good is the stuff. It's about what the stuff say about how valuable of a person you are.
