@@ -123,7 +123,7 @@ Resistance training is a choice you make. It's hard, but only has upsides for yo
 My only advices:
 - Find good lasting reasons to workout (I hope this article helped) and stop finding excuses to not go. 
 - If you're over 30 (or even in your 20s and able to afford it), hire a personal trainer to start. They can check your form and avoid any kind of injuries. With weights, it is really easy to get a bad form, no matter how many youtube videos you watch. I went to see a Physiotherapist 4 years after I started squats, and this is the best thing I've ever done. She retaught me everything I think I knew about squatting. 
-- I also do a bit of aerobic exercices (cardio). But excessive cardio is counterproductive, leading to loss of muscle mass and potential joint issues. 
+- I also do a bit of aerobic exercices: running 1 hour a week and playing volleyball once a week. But excessive cardio is counterproductive, leading to loss of muscle mass and potential joint issues. 
 - The CDC recommends [2+ days per week that work all major muscle groups (legs, hips, back, abdomen, chest, shoulders, and arms)](https://www.cdc.gov/physicalactivity/basics/age-chart.html). 
 - For very beginner, I do recommend the [5x5 program](https://stronglifts.com/5x5/). The program work on all biggest muscles of your bodies. I do also like their app that is really easy to follow. There is plenty of strength training gurus out there. No matter what program you pick, you'll find benefits any of them. 
 - When you go to the gym, leave your ego at home, and never compare yourself to others. You'll just get injured. 
